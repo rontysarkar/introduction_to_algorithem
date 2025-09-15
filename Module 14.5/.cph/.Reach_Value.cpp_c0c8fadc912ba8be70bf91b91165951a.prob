@@ -1,0 +1,1 @@
+{"name":"Local: Reach_Value","url":"d:\\Phitron\\introduction to algorithem\\Module 14.5\\Reach_Value.cpp","tests":[{"id":1757513143510,"input":"5\n1\n2\n10\n25\n200\n","output":"YES\nNO\nYES\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Phitron\\introduction to algorithem\\Module 14.5\\Reach_Value.cpp","group":"local","local":true}
